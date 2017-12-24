@@ -10,4 +10,4 @@ end
 
 dog = Dog.new
 dog.name = "Pepper"
-pus dog.name
+puts dog.name
